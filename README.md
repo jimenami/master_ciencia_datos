@@ -7,3 +7,4 @@ Este proyecto analiza el dataset público [historic_demand_3009_2024](https://ww
 - Lenguaje: Python
 - Librerías principales: pandas, matplotlib, seaborn...
 - Fuente de datos: Kaggle (dataset público)
+- Autores: Juan Francisco Correas Díaz, Jimena Milla Moreno.
